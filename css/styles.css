@@ -16,6 +16,13 @@ h1 {
 	color: #66bfbf;
 	line-height: 2;
 }
+.middle-container {
+	padding-top: 2%;
+	display: inline-block;
+	width: 50%;
+	margin: 0 25% 0 25%;
+	line-height: 200%;
+}
 h2 {
 	font-size: 2rem;
 	color: #66bfbf;
@@ -38,5 +45,6 @@ a {
 	position: absolute;
 }
 hr {
-	margin: 0 40% 0 40%;
+	margin: 0 45% 0 45%;
+	border: 1px dashed #929999;
 }
